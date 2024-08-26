@@ -2,7 +2,7 @@
 <!--Introduction-->
 # 🌸 Hi, I'm Zeba Farhangi!
 
-![LoadingScreen-1920x800](https://github.com/JohanneChristiana/JohanneChristiana/assets/113961547/564a6a83-ad7e-4d7d-86fd-ef487f1ab771)
+![LoadingScreen-1920x800](https://github.com/ZebaFarhangi/ZebaFarhangi/assets/113961547/564a6a83-ad7e-4d7d-86fd-ef487f1ab771)
 
 👩‍💻 Sharing my journey and learnings in Tech<br/>
 🏫 Studying Information Technology at Victoria University, Australia<br/>
